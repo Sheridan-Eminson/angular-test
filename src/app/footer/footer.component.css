@@ -1,0 +1,9 @@
+footer {
+  display: block;
+  z-index: -3;
+  text-align: center;
+  padding: 2px;
+  margin: -8px;
+  background-color: rgb(100, 77, 69);
+  color: white;
+}
